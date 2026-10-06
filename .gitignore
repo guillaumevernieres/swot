@@ -1,0 +1,13 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+
+# Downloaded and processed scientific data
+*.nc
+
+# Generated plots and binary documents
+*.png
+*.pdf
+
+# This directory is maintained as its own Git repository.
+freeboard-obs/

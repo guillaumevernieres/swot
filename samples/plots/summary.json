@@ -1,0 +1,38 @@
+[
+  {
+    "file": "SWOT_L2_LR_SSH_Expert_056_227_20260918T204008_20260918T213137_PID0_01.nc",
+    "pass": "227",
+    "good_adt_pixels": 346963,
+    "good_ssha_model_pixels": 347017,
+    "good_ssha_radiometer_pixels": 331785,
+    "adt_percentiles_1_50_99_m": [
+      -0.7664,
+      0.27630000000000016,
+      0.7584
+    ]
+  },
+  {
+    "file": "SWOT_L2_LR_SSH_Expert_056_228_20260918T213135_20260918T222221_PID0_01.nc",
+    "pass": "228",
+    "good_adt_pixels": 225078,
+    "good_ssha_model_pixels": 225449,
+    "good_ssha_radiometer_pixels": 213408,
+    "adt_percentiles_1_50_99_m": [
+      -0.9951230000000001,
+      0.6608,
+      1.3227000000000002
+    ]
+  },
+  {
+    "file": "SWOT_L2_LR_SSH_Expert_056_229_20260918T222402_20260918T231430_PID0_01.nc",
+    "pass": "229",
+    "good_adt_pixels": 300691,
+    "good_ssha_model_pixels": 300735,
+    "good_ssha_radiometer_pixels": 284502,
+    "adt_percentiles_1_50_99_m": [
+      -0.7627,
+      0.48019999999999996,
+      1.0655099999999977
+    ]
+  }
+]

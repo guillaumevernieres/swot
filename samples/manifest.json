@@ -1,0 +1,27 @@
+{
+  "collection": "SWOT_L2_LR_SSH_EXPERT_D",
+  "retrieval_date": "2026-09-22",
+  "files": [
+    {
+      "filename": "SWOT_L2_LR_SSH_Expert_056_229_20260918T222402_20260918T231430_PID0_01.nc",
+      "url": "https://archive.swot.podaac.earthdata.nasa.gov/podaac-swot-ops-cumulus-protected/SWOT_L2_LR_SSH_D/SWOT_L2_LR_SSH_Expert_056_229_20260918T222402_20260918T231430_PID0_01.nc",
+      "time_start": "2026-09-18T22:22:47.887Z",
+      "time_end": "2026-09-18T23:14:45.641Z",
+      "size_mb": "32.47489738464355"
+    },
+    {
+      "filename": "SWOT_L2_LR_SSH_Expert_056_228_20260918T213135_20260918T222221_PID0_01.nc",
+      "url": "https://archive.swot.podaac.earthdata.nasa.gov/podaac-swot-ops-cumulus-protected/SWOT_L2_LR_SSH_D/SWOT_L2_LR_SSH_Expert_056_228_20260918T213135_20260918T222221_PID0_01.nc",
+      "time_start": "2026-09-18T21:31:21.096Z",
+      "time_end": "2026-09-18T22:23:18.755Z",
+      "size_mb": "32.2915735244751"
+    },
+    {
+      "filename": "SWOT_L2_LR_SSH_Expert_056_227_20260918T204008_20260918T213137_PID0_01.nc",
+      "url": "https://archive.swot.podaac.earthdata.nasa.gov/podaac-swot-ops-cumulus-protected/SWOT_L2_LR_SSH_D/SWOT_L2_LR_SSH_Expert_056_227_20260918T204008_20260918T213137_PID0_01.nc",
+      "time_start": "2026-09-18T20:39:54.269Z",
+      "time_end": "2026-09-18T21:31:51.964Z",
+      "size_mb": "33.38797855377197"
+    }
+  ]
+}
